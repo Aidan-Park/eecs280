@@ -2,10 +2,9 @@ EECS 280 Project 1 Solution
 ===========================
 Statistics
 
-By Aidan Park <aidanp@umich.edu>
+By Aidan Park <aidanparkcv@gmail.com>
+              <aidanp@umich.edu>
 
-# Quick start
-'''console
-$ make main.exe
-$ ./main.exe
-'''
+
+Started 2021/09/09
+Final Version Submitted 2021/09/12
