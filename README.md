@@ -1,5 +1,11 @@
-# eecs280
-Projects from eecs280: Data Structures and Algorithms
+EECS 280 Project 1 Solution
+===========================
+Statistics
 
-Project 1: Statistics.
-  vectors, functions
+By Aidan Park <aidanp@umich.edu>
+
+# Quick start
+'''console
+$ make main.exe
+$ ./main.exe
+'''
